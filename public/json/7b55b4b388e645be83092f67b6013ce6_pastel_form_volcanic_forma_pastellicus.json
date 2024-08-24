@@ -1,0 +1,35 @@
+{
+  "uuid": "7b55b4b388e645be83092f67b6013ce6",
+  "speciesName": "Pastel Form",
+  "latinName": "Forma Pastellicus",
+  "origin": "Extraterrestrial",
+  "homePlanet": {
+    "type": "Volcanic",
+    "starSystem": {
+      "starType": "Neutron Star"
+    }
+  },
+  "biology": {
+    "composition": "Dense Metals",
+    "physiology": "Liquid Metal Based",
+    "adaptations": [
+      "Extreme Temperature Resistance",
+      "Radiation Based Radiological Synapses"
+    ],
+    "communication": "Electromagnetic Waves",
+    "diseases": [
+      {
+        "name": "Harmonious Frequency Disorder",
+        "cause": "Overabundance of similarly-tuned frequency receptors",
+        "effects": "Disrupted neural activity"
+      }
+    ]
+  },
+  "culture": "Largely unknown, suggested to be intelligent and resilient",
+  "japaneseTransliteration": "Fōma Pasuterukkusu",
+  "disclaimer": {
+    "ai_model": "google/gemini-1.5-pro",
+    "provider": "poe",
+    "date": "08-24-2024"
+  }
+}
